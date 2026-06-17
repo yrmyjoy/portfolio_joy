@@ -1,0 +1,22 @@
+/* fonts */
+.contents_title_xsmall { font-size: 24px; font-weight: 400; letter-spacing: -0.1px; line-height: 144%; }
+.contents_title_small { font-size: 26px; font-weight: 600; letter-spacing: -0.4px; }
+.contents_title_medium { font-size: 32px; font-weight: 400; letter-spacing: -0.6px; }
+.contents_title_large { font-family: "Roboto Serif", serif; font-size: 40px; font-weight: 500; letter-spacing: -0.6px;  line-height: 144%;  }
+.contents_title_xlarge { font-size: 130px; font-weight: 600; letter-spacing: -1px; }
+.contents_title_xxlarge { font-size: 208px; line-height: 208px; font-weight: 500; letter-spacing: -1px; color: #fff;  }
+
+.contents_article_small { font-size: 16px; font-weight: 300; letter-spacing: -0.5px; }
+.contents_article_medium { font-size: 18px; font-weight: 600; letter-spacing: -0.7px; }
+.contents_article_large { font-size: 20px; font-weight: 100; letter-spacing: -0.8px; line-height: 145%; }
+
+.main_title_wrap .main_title { font-family: "DotGothic16", sans-serif; font-size: 100px; letter-spacing: 15px; text-align: center; color: #0077FF; background: #fff;}
+
+/* box */
+.contents_title_wrap { 
+    width: 100%; margin-bottom: 50px; text-align: center; 
+    display: flex; flex-wrap: wrap; flex-direction: column; gap: 6px;
+}
+.contents_title_wrap .contents_article_medium { font-weight: 300; color: #545454; }
+
+/* btn */

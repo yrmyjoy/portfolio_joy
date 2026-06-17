@@ -1,0 +1,15 @@
+/* index 페이지 반응형 영역(header / footer 제외) */
+@media screen and (max-width:1440px) {
+    /* 대부분의 경우 고정값 -> 가변값 작업 구간 */
+    /* 글자 크기 혹은 박스 크기 조절 (되도록) 하지 않기 */
+}
+
+@media screen and (max-width:1280px) {}
+
+@media screen and (max-width:1024px) {}
+
+@media screen and (max-width:768px) {}
+
+@media screen and (max-width:600px) {}
+
+@media screen and (max-width:480px) {}
